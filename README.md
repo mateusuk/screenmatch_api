@@ -48,8 +48,7 @@
 
   ## 📝 License
 
-  Project developed by [Alura](https://www.alura.com.br) and used in Spring Boot courses.
-
+ This application is covered under the ![MIT License](https://img.shields.io/badge/License-MIT-green.svg) license
   
 
 
