@@ -15,7 +15,7 @@
   
   ## 🎨 Usage
 
-  <img src="ScreeMatch.png" alt="Image" width="50%">
+  <img src="ScreenMatch.png" alt="Image" width="50%">
 
 
   ## ⚙️ Features/Objetive
